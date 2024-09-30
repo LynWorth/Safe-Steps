@@ -1,4 +1,4 @@
-# Safeguarding   - ADD TITLE
+# Safe Steps
 
 
 ## Description
@@ -46,3 +46,8 @@ Imogen has left her abuser but thinks it's all her fault she was treated that wa
 Paul - College tutor about to lead a safeguarding lesson and he's just re-capping things, taking notes and intends to include links for his students to browse themselves.
 
 Caitlin is wondering if she's been abused in the past and wants to find a checklist of potential abusive behaviours, she was never physically hit so she's struggling to see how her situation could have been 'abuse'. 
+
+
+## Refs
+
+https://www.scie.org.uk/safeguarding/
