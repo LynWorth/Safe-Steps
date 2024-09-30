@@ -1,14 +1,16 @@
 /*---------------------------------------------header*/
 
-
 .header {
-    background-color: #bd4b4b; /* Header background color */
-    padding: 10px 10px; /* Padding around the header */
-    display: flex;
-    align-items: left; 
+    overflow: hidden;
+    background-color: #f1f1f1;
+    padding: 20px 10px;
+    font-size: xx-large;
 }
-    }
+
+
     
+.logo {
+
 }
 
 
@@ -19,6 +21,14 @@
 /*--------------------------------------------body*/
 
 
+.inline-block{
+    display: inline-block;
+}
+
+
+
+
+
 
 
 
@@ -27,3 +37,18 @@
 
 
 /*-------------------------------------------footer*/
+
+
+
+.footer {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  background-color:#f1f1f1;
+  color: white;
+  text-align: center;
+}
+
+
+
