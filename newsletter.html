@@ -14,11 +14,11 @@
   <link href="https://fonts.googleapis.com/css2?family=Rubik:ital,wght@0,300..900;1,300..900&display=swap"
     rel="stylesheet">
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
-  
+  <link rel="stylesheet" href="path/to/font-awesome/css/font-awesome.min.css">
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Arvo:ital,wght@0,400;0,700;1,400;1,700&display=swap"
-    
+    rel="stylesheet">
 
 
 
@@ -30,14 +30,21 @@
 
 <body class="body">
   <header>
-    <div class="header">
-      <img src="assets/logo.png" alt="this is the company logo SS safesteps  ">
-      <div class="header-right">
-        <a class="active" href="index.html">Home</a>
-        <a href="contact.html">Contact</a>
-        <a href="about.html">About</a>
-      </div>
-    </div>
+    <header>
+      <header>
+        <nav class="navbar bg-body-tertiary">
+          <div class="header">
+            <img src="assets/logo.jpg" alt="This is the company logo SS Safesteps" width="200" height="100">
+            <div class="header-right">
+              <ul>
+                <li><a class="active" href="index.html">Home</a></li>
+                <li><a href="newsletter.html">Newsletter</a></li>
+                
+              </ul>
+            </div>
+          </div>
+        </nav>
+      </header>
 
   </header>
 
@@ -50,8 +57,18 @@
     <div class="row">
       <div class="col-md-12">
         <div class="container shadow p-3 rounded row text-center container-sm">
-          <p> this is bout ...
-          </p>
+          <form>
+            <div class="mb-3">
+              <h2>Sign up to our bi-monthly newsletter here</h2>
+              <label for="exampleInputEmail1" class="form-label">Email address</label>
+              <input type="email" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp">
+              <div id="emailHelp" class="form-text">We'll never share your email with anyone else.</div>
+            </div>
+           
+           
+            <button type="submit" class="btn btn-primary">Submit</button>
+          </form>
+          
         </div>
       </div>
     </div>
