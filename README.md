@@ -1,8 +1,12 @@
 # Safe Steps
 
+## Project status 
+to-dolist:
+ re-size logo to fit in header
+ hover elements on behaviour list
 
 ## Description
-This project is to create a straightforward webpage outlining the key principles of Safeguarding issues for adults.
+This project is to create a straightforward webpage outlining the key principles of Safeguarding issues for adults, predominently domestic abuse.
 
 
 ## Intended Audience
@@ -10,7 +14,16 @@ Victims, survivors and their friends and families. Anyone who is concerned for s
 
 
 
-## Table of Contents
+## Planning and Wireframe
+
+Some photos of crude notes, I did attempt to create a wireframe on balsamiq but was taking too long to learn how to use the site - practice needed.
+
+assets/Laptop.jpg
+assets/Tablet.jpg
+assets/Phone.jpg
+assets/Notes.jpg
+assets/Notes2.jpg
+assets/Colour Selection.jpg
 
 
 
@@ -21,7 +34,7 @@ Victims, survivors and their friends and families. Anyone who is concerned for s
 
 Annie is a survivor and wants to be able to quickly find help on the page as she's discovered signs of being stalked by her abuser and could be in immediate danger.
 
-Phillipa must be able to come to the website and find information regarding getting herself some support as she suspects she is a victim of domestic abuse.
+Phillipa must be able to come to the website and find information regarding  getting herself some support as she suspects she is a victim of domestic abuse.
 
 Fiona is worried about a neighbour and must be able to educate herself as to what she could or should do in regards to her neighbour who she suspects is being coercively controlled by her husband. She wants to be able to find out what sort of support she can offer to her neighbour and to provide a safe space where her neighbour could come to access information about the help and support available to her. Fiona is aware that the first step to getting help needs to come from her neighbour, and is reluctant to involve any outside agencies via her own referrals.
 

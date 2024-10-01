@@ -1,3 +1,5 @@
+
+
 /*---------------------------------------------header*/
 
 .header {
@@ -5,15 +7,18 @@
     background-color: #f1f1f1;
     padding: 20px 10px;
     font-size: xx-large;
+    box-shadow: 2px 2px grey;
 }
 
 
+   /*   for if I ever resize the logo and get it in the header */ 
+
+
+
+   .logo {
     
-.logo {
-
+   
 }
-
-
 
 
 
@@ -21,16 +26,37 @@
 /*--------------------------------------------body*/
 
 
+h1 {
+  font-family: "Arvo", sans-serif;
+}
+
 .inline-block{
     display: inline-block;
 }
 
 
+.body {
+  background-color: #c5adc5
+;
 
+}
 
+.container {
+  color: #4682b4;
+ 
+}
 
+.behaviour {
+  list-style: none;
+  text-align: justify;
+  font-size: large;
+}
 
-
+.help {
+  list-style: none;
+  font-size: large;
+  text-align: justify;
+}
 
 
 
