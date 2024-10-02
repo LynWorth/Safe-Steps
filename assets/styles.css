@@ -1,8 +1,8 @@
-@media (max-width: 600px) {
+/*@media (max-width: 600px) {
   .nav-list {
     flex-direction: column;
   }
-
+*/
 
 
   .navbar {
@@ -95,10 +95,10 @@
     align-items: center;
   }
 
-  @media (max-width: 600px) {
+ /* @media (max-width: 600px) {
     .footer-content {
       flex-direction: column;
 
     }
-
+*/
   
