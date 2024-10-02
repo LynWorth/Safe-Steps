@@ -1,10 +1,14 @@
 # Safe Steps
 
-## Project status 
+## Project status (a Mess!)
 (to-dolist:
 nav bar
-background color on body disapeared - why?
- remove <br> from list sort with CSS)
+
+footer
+
+background color on body disapeared - styling is working on smaller screen but not larger screens
+
+ remove <br> from lists sort with CSS)
  
 
 ## Description
