@@ -12,7 +12,7 @@ This project is to create a straightforward webpage outlining the key principles
 
 
 ## Intended Audience
-Victims, survivors and their friends and families. Anyone who is concerned for someones welfare and wants to learn more about abuse and where to turn for emotional support and practical help.
+Victims, survivors and their friends and families. Anyone who is concerned for someones welfare and wants to learn more about abuse and where to turn for emotional support and practical helpgit.
 
 
 
@@ -20,14 +20,11 @@ Victims, survivors and their friends and families. Anyone who is concerned for s
 
 Some photos of crude notes, I did attempt to create a wireframe on balsamiq but was taking too long to learn how to use the site - practice needed.
 
-assets/Laptop.jpg
-assets/Tablet.jpg
-assets/Phone.jpg
-assets/Notes.jpg
-assets/Notes2.jpg
-assets/Colour Selection.jpg
-
-
+<img src="assets/Laptop.jpg">
+<img src="assets/Tablet.jpg">
+<img src="assets/Notes.jpg">
+<img src="assets/Notes2.jpg">
+<img src="assets/Colour Selection.jpg">
 
 
 ## User Stories
@@ -68,9 +65,12 @@ Caitlin is wondering if she's been abused in the past and wants to find a checkl
 https://www.scie.org.uk/safeguarding/
 https://wcwaid.co.uk/info-advice/domestic-abuse/myths-about-domestic-abuse/
 
+
+
+
 ## Personal Observations
 Completely forgot to git add, git commit and git push for most of this build!! 
 
 Take one step at a time.
 
-Not sure I like CSS at all 
+Not sure I like CSS at all, or fully understand it
