@@ -1,15 +1,18 @@
-@media (max-width: 600px) .nav-list {
-  flex-direction: column;
-}
+@media (max-width: 600px) {
+  .nav-list {
+    flex-direction: column;
+  }
 
 
-.navbar {
-  display: flex;
-  justify-content: space-between;
-  align-items: center;
-  padding: 10px 20px;
-  background-color: #4682b4;
-}
+
+  .navbar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px 20px;
+    background-color: #4682b4;
+  }
+
   .navbar-brand {
     color: #f1f1f1;
     font-size: 80px;
@@ -85,8 +88,8 @@
     align-items: center;
     padding: 10px 20px;
     background-color: #4682b4;
-    }
-    
+  }
+
   .footer-content {
     display: flex;
     align-items: center;
@@ -95,6 +98,7 @@
   @media (max-width: 600px) {
     .footer-content {
       flex-direction: column;
-   
-  }
 
+    }
+
+  }
