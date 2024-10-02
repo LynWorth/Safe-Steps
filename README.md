@@ -2,7 +2,9 @@
 
 ## Project status 
 (to-dolist:
- re-size logo to fit in header)
+nav bar
+background color on body disapeared - why?
+ remove <br> from list sort with CSS)
  
 
 ## Description
@@ -10,7 +12,7 @@ This project is to create a straightforward webpage outlining the key principles
 
 
 ## Intended Audience
-Victims, survivors and their friends and families. Anyone who is concerned for someones welfare and wants to learn more about abuse and where to turn for emotional support, practical help and legal guidance.
+Victims, survivors and their friends and families. Anyone who is concerned for someones welfare and wants to learn more about abuse and where to turn for emotional support and practical help.
 
 
 
