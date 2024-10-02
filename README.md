@@ -1,9 +1,9 @@
 # Safe Steps
 
 ## Project status 
-to-dolist:
- re-size logo to fit in header
- hover elements on behaviour list
+(to-dolist:
+ re-size logo to fit in header)
+ 
 
 ## Description
 This project is to create a straightforward webpage outlining the key principles of Safeguarding issues for adults, predominently domestic abuse.
@@ -65,3 +65,10 @@ Caitlin is wondering if she's been abused in the past and wants to find a checkl
 
 https://www.scie.org.uk/safeguarding/
 https://wcwaid.co.uk/info-advice/domestic-abuse/myths-about-domestic-abuse/
+
+## Personal Observations
+Completely forgot to git add, git commit and git push for most of this build!! 
+
+Take one step at a time.
+
+Not sure I like CSS at all 
