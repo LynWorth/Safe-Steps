@@ -1,116 +1,123 @@
+*@import url('https://fonts.googleapis.com/css2?family=Exo:ital,wght@0,100..900;1,100..900&family=Henny+Penny&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&family=Ubuntu:ital,wght@0,300;0,400;0,500;0,700;1,300;1,400;1,500;1,700&display=swap');
 
 
 
-  .navbar {
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-    padding: 20px 20px;
-    background-color: #4682b4;
-  }
+.navbar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 20px 20px;
+  background-color: #4682b4;
+}
 
-  .navbar-brand {
-    color: #f1f1f1;
-    font-size: 80px;
-
-  }
-
-  .container-fluid {
-    display: flex;
-    justify-content: space-between;
-    width: 100%;
-  }
-
-  .nav-list {
-    display: flex;
-    list-style: none;
-  }
-
-  .nav-list li {
-    margin: 0 145px;
-  }
-
-  .nav-list a {
-    color: #f1f1f1;
-    text-decoration: none;
-    font-size: 40px;
-  }
-
-  .nav-list a:hover {
-    text-decoration: underline;
-  }
+.navbar-brand {
 
 
+  /*color: #f1f1f1;
+  font-size: 80px;*/
 
-  .nav-list li {
-    margin: 40px 0;
-  }
+}
 
-  h1 {
-    font-family: "Arvo", sans-serif;
-  }
+.container-fluid {
+  display: flex;
+  justify-content: space-between;
+  width: 100%;
+}
 
-  .inline-block {
-    display: inline-block;
-  }
+.nav-list {
+  display: flex;
+  list-style: none;
+}
 
+.nav-list li {
+  margin: 0 145px;
+}
 
-  /*.body {
-    background-color: #c5adc5;
-  } */
+.nav-list a {
+  color: #f1f1f1;
+  text-decoration: none;
+  font-size: 40px;
+}
 
-  .body {
-    background-image: url(/assets/pexels-miriamespacio-1874726.jpg);
-    height: 100vh;
-    width: 100%;
-    background-repeat: no-repeat;
-    background-attachment: fixed;
-    background-size: cover;
-    margin: 0;
-    
-   
-   
-  }
-  
-
-  .container {
-    color: #4682b4;
-    background-color: rgba(255,255,255,0.5);
-  }
-
-  .behaviour {
-    list-style: none;
-    text-align: justify;
-    font-size: large;
-  }
-
-  .help {
-    list-style: none;
-    font-size: large;
-    text-align: justify;
-  }
+.nav-list a:hover {
+  text-decoration: underline;
+}
 
 
 
-  .footer {
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-    padding: 10px 20px;
-    background-color: #4682b4;
-    position: fixed;
-    bottom: 0px;
-    width: 100%;
-  }
+.nav-list li {
+  margin: 40px 0;
+}
+
+/*h1 {
+  font-family: "Sofia", sans-serif;
+}*/
+
+.inline-block {
+  display: inline-block;
+}
 
 
-  .footer-content {
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-    padding: 5px 5px;
-    background-color: #4682b4;
-  }
+
+body {
+  height: 100%;
+  margin: 0;
+  font-family: "Exo", sans-serif;
+}
+
+.body {
+
+  height: 100vh;
+  width: 100%;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+  margin: 0;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+
+}
 
 
-  
+
+.container {
+  color: #4682b4;
+  background-color: rgba(255, 255, 255, 0.5);
+}
+
+.behaviour {
+  list-style: none;
+  text-align: justify;
+  font-size: large;
+}
+
+.help {
+  list-style: none;
+  font-size: large;
+  text-align: justify;
+}
+
+
+
+.footer {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 10px 20px;
+  background-color: #4682b4;
+  position: fixed;
+  bottom: 0px;
+  width: 100%;
+  margin-top: auto;
+}
+
+
+.footer-content {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 5px 5px;
+  background-color: #4682b4;
+} 
+
